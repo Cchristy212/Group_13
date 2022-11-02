@@ -1,5 +1,7 @@
 # Group_13
 
+Note: The final analysis files are in the "Final_Presentation" folder.
+
 As a team we are trying to aid our first client, Brandyn, in his home search
 We are acting as a consultancy that is establishing a process to analyze housing data
 Our first step is to collect foundational knowledge about the housing market
